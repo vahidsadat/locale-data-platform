@@ -14,7 +14,7 @@ def run_git_command(command: list[str]) -> None:
 
 def bump_version(action: str) -> None:
     if not(VERSION_FILE.exists()):
-        print("Error: couldn't find {VERSION_FILE}")
+        print(f"Error: couldn't find {VERSION_FILE}")
         sys.exit(1)
     
     content = VERSION_FILE.read_text()
