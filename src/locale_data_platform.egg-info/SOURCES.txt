@@ -1,0 +1,11 @@
+pyproject.toml
+src/__init__.py
+src/app.py
+src/kafka_producer.py
+src/logger.py
+src/version.py
+src/locale_data_platform.egg-info/PKG-INFO
+src/locale_data_platform.egg-info/SOURCES.txt
+src/locale_data_platform.egg-info/dependency_links.txt
+src/locale_data_platform.egg-info/requires.txt
+src/locale_data_platform.egg-info/top_level.txt

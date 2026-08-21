@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: locale-data-platform
+Version: 0.0.0
+Author-email: vahid sadat <sadatvahid1372@gmail.com>
+Requires-Python: >=3.8
+Requires-Dist: confluent-kafka

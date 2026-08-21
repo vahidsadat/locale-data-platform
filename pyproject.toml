@@ -4,7 +4,7 @@ dynamic = ["version"]
 authors = [{name = "vahid sadat", email = "sadatvahid1372@gmail.com"}]
 requires-python = ">= 3.8"
 dependencies = [
-    
+    "kafka-python"
 ]
 
 [dependency-groups]
